@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include "qwrt.h"
 
 void qwrt(double a, double b, double c)
 {
